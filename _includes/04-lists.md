@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# My Favourite Things
+1. Chips
+2. Peppermint Green Tea
+3. Volleyball
